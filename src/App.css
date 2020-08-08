@@ -14,6 +14,23 @@ background-size: cover;
 max-width: 100%;
 }
 
+.parti{
+
+  position:absolute;
+  top:290px;
+  left:300px;
+  font-size: 35px;
+
+}
+
+.program{
+
+  position: absolute;
+  top:360px;
+  left:380px;
+  
+}
+
 .cc{
 box-shadow: 0 0 15px 0 rgba(0,0,0,0.3);
 }
@@ -65,11 +82,6 @@ background-color:grey;
 
 
 
-.class1:hover{
-
-
-transform: translateY(20px);
-}
 
 
 .class1{
