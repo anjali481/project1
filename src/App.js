@@ -7,7 +7,7 @@ import {
 	Link,
 	useParams
   } from "react-router-dom";
-import  Page from './Page'
+import  Page from '.components/Page'
 
 class App extends React.Component{
   render() {
